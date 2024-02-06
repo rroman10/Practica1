@@ -4,3 +4,4 @@
 
 ##Hobbies: Futbol, Videogames
 
+### Favorite color: azul y morado
